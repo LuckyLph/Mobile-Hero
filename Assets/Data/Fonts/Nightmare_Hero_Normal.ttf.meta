@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e5e3b1430610884da9119de02746566
+timeCreated: 1494002343
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nightmare Hero
+  fontNames:
+  - Nightmare Hero
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
